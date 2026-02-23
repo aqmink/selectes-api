@@ -78,5 +78,13 @@ FastAPI-приложение для парсинга публичных вака
    1) Все эндпоинты работают корректно
    2) Парсинг выполняется согласно расписанию, без падений и без неожидаемых изменений
       ![](screenshots/Preview.png)
+      ![](screenshots/get_all.png)
+      ![](screenshots/get.png)
+      ![](screenshots/creating_1.png)
+      ![](screenshots/creating_2.png)
+      ![](screenshots/editing_1.png)
+      ![](screenshots/editing_2.png)
+      ![](screenshots/deleting.png)
+      ![](screenshots/parse.png)
 
 
