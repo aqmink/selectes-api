@@ -85,6 +85,6 @@ FastAPI-приложение для парсинга публичных вака
       ![](screenshots/editing_1.png)
       ![](screenshots/editing_2.png)
       ![](screenshots/deleting.png)
-      ![](screenshots/parse.png)
+      ![](screenshots/parsing.png)
 
 
